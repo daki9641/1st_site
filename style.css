@@ -1,0 +1,17 @@
+*{
+    color:rgb(0, 0, 0) ;
+}
+.title{
+    color:rgb(235, 23, 23) ;
+}
+body{
+    background-color: rgb(202, 202, 202);
+}
+img{
+    width: 384px;
+    height: 216px;
+}
+.bor{
+    font-style:italic
+}
+
