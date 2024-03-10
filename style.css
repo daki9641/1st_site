@@ -3,15 +3,38 @@
 }
 .title{
     color:rgb(235, 23, 23) ;
-}
+ }
+
+.header{
+    position: fixed;
+    background-color: blueviolet;
+    left: 40%;
+
+} 
+.planet{
+    position: fixed;
+    left: 70%;
+    width: 40px;
+    height: 40px;
+    
+}   
+
 body{
-    background-color: rgb(202, 202, 202);
+    background-image: url(./pastel-colour-feather-abstract-background_66899-1263.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
-img{
+img*{
     width: 384px;
     height: 216px;
 }
 .bor{
     font-style:italic
 }
-
+.divan{
+    background-image: url(./bg-gb.jpeg);
+    width: 280px;
+    height: 100px;
+}
